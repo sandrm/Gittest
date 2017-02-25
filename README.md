@@ -1,7 +1,8 @@
 # Gittest
 test git
 
-cd /E/Study/Codes
+Initialized empty Git repository in
+cd /E/git
 
 git config --global user.name "o m"
 
